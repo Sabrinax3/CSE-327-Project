@@ -27,6 +27,6 @@ Tools/Frameworks used: Eclipse
 Refecrences: I followed this YouTube tutorial 
               https://www.youtube.com/watch?v=_SqnzvJuKiA&t=2249s&fbclid=IwAR0o431083nAsAPL26oM0SQJ0kXdx5JQM39fz__H_cs3rcl4KhdWc_UG8uA
 
-Developers: Sabrina Jalil (1811675042) [CSE 327 Section 7]
+Developers: Sabrina Jalil (1811675042) [CSE 327 Section 7] [Scrum Master and Product Owner}
 
 
